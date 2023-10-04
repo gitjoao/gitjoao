@@ -1,7 +1,7 @@
 ### Oi! Eu sou o João Guilherme 👋
 
-- 🔭 Hoje trabalho como desenvolvedor full-stack mas focado no back-end na <a target="_blank" href="https://stefanini.com/pt-br">Stefanini</a> 
-- 🌱 Estudando para Certificação AWS 
+- 🔭 Hoje trabalho como desenvolvedor full-stack mas focado no back-end na <a target="_blank" href="https://www.raizen.com.br/">Raizen</a> 
+- 🌱 Vivendo a vida.. 
 
 <div>
   <a href="https://github.com/gitjoao">
