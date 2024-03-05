@@ -25,6 +25,6 @@
   <a target="_blank" href="https://instagram.com/_joaoguilh3rm3"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href ="mailto:joaoguilherme357@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-  ![Snake animation](https://github.com/gitjoao/gitjoao/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/gitjoao/gitjoao/blob/output/github-contribution-grid-snake.gif)
  
 </div>
