@@ -5,15 +5,6 @@
 
 <div>
   <a href="https://github.com/gitjoao">
-    <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gitjoao&show_icons=true"
-  />
-</picture>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitjoao&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
